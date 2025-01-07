@@ -20,7 +20,7 @@ For the setup of the project follow the instructions in the [SETUP.md](docs/SETU
 │     └── experimentation
 │
 ├── dev-requirements.txt     # testing dependencies
-├── environment.yaml         # conda formatted dependencies, used by 'make init' to create the virtualenv
+├── pyproject.toml           # poetry formatted dependencies, used by 'make init' to create the virtualenv
 ├── README.md                
 └── requirements.txt         # core dependencies of the library in pip format
 ```
