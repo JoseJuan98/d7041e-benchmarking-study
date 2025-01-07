@@ -37,18 +37,11 @@ make init
 ```
 
 
-### Using conda
-
-- Create a conda virtual environment called eot and install the dependencies
+### Using poetry
 
 ```bash
-conda env update --file environment.yaml
-```
-
-- After creating it, activate the environment and add it to the interpreter setting of Pycharm
-
-```bash
-conda activate object-detection
+pip install poetry
+poetry install
 ```
 
 ### Using pip
