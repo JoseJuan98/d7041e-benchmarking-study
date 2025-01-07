@@ -1,20 +1,5 @@
 # Setup
 
-## Anaconda/miniconda installation
-
-- [Anaconda](https://www.anaconda.com/download) is a "python distribution" with a lot of data science libraries
-pre-installed (which takes quite some space). Has a UI to manage python virtual environments. If you install it,
-it will install conda too. /!\ Be careful with the purpose of the project, if it's a comercial project or for an
-organization, it requires a license to use it. In such a case, conda doesn't require a license.
-
-- [miniconda](https://docs.anaconda.com/free/miniconda/) is a free minimal installer for conda. It is a small bootstrap
-version of Anaconda that includes only conda, Python, the packages they both depend on, and a small number of other
-useful packages.
-
-[Conda](https://docs.conda.io/projects/conda/en/stable/user-guide/getting-started.html) is the package, dependency, 
-and environment management command line tool.
-
-
 ## Python environment
 
 ### Make installation
