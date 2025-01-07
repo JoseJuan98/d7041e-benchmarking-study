@@ -1,0 +1,179 @@
+{
+    "Iris": {
+        "RandomForest": 0.9167,
+        "KNeighbors": 0.9167,
+        "LogisticRegression": 0.9333,
+        "KMeans": 0.4976,
+        "DBSCAN": 0.0494,
+        "MiniBatchKMeans": 0.4341
+    },
+    "Wine": {
+        "RandomForest": 0.9861,
+        "KNeighbors": 0.9306,
+        "LogisticRegression": 0.9722,
+        "KMeans": 0.2626,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.2446
+    },
+    "Breast Cancer Wisconsin (Diagnostic)": {
+        "RandomForest": 0.9605,
+        "KNeighbors": 0.9605,
+        "LogisticRegression": 0.9693,
+        "KMeans": 0.2828,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.3329
+    },
+    "CDC Diabetes Health Indicators": {
+        "RandomForest": 0.8659,
+        "KNeighbors": 0.848,
+        "LogisticRegression": 0.8635,
+        "KMeans": 0.0809,
+        "DBSCAN": -0.3506,
+        "MiniBatchKMeans": 0.159
+    },
+    "National Poll on Healthy Aging": {
+        "RandomForest": 0.4266,
+        "KNeighbors": 0.472,
+        "LogisticRegression": 0.521,
+        "KMeans": 0.1082,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.0894
+    },
+    "AIDS Clinical Trials Group Study 175": {
+        "RandomForest": 0.8902,
+        "KNeighbors": 0.8364,
+        "LogisticRegression": 0.8692,
+        "KMeans": 0.1452,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.0956
+    },
+    "Secondary Mushroom": {
+        "RandomForest": 0.9988,
+        "KNeighbors": 1.0,
+        "LogisticRegression": 0.8446,
+        "KMeans": 0.0579,
+        "DBSCAN": 0.3873,
+        "MiniBatchKMeans": 0.0557
+    },
+    "Land Mines": {
+        "RandomForest": 0.4926,
+        "KNeighbors": 0.4265,
+        "LogisticRegression": 0.4926,
+        "KMeans": 0.3252,
+        "DBSCAN": -0.1136,
+        "MiniBatchKMeans": 0.3219
+    },
+    "Differentiated Thyroid Cancer Recurrence": {
+        "RandomForest": 0.9675,
+        "KNeighbors": 0.9221,
+        "LogisticRegression": 0.974,
+        "KMeans": 0.1264,
+        "DBSCAN": -0.0795,
+        "MiniBatchKMeans": 0.1759
+    },
+    "Glioma Grading Clinical and Mutation Features": {
+        "RandomForest": 0.8452,
+        "KNeighbors": 0.8363,
+        "LogisticRegression": 0.8661,
+        "KMeans": 0.1659,
+        "DBSCAN": -0.0537,
+        "MiniBatchKMeans": 0.1616
+    },
+    "Auction Verification": {
+        "RandomForest": 0.9707,
+        "KNeighbors": 0.8826,
+        "LogisticRegression": 0.8765,
+        "KMeans": 0.1497,
+        "DBSCAN": -0.0824,
+        "MiniBatchKMeans": 0.1493
+    },
+    "National Health and Nutrition Health Survey 2013-2014 (NHANES) Age Prediction Subset": {
+        "RandomForest": 0.8476,
+        "KNeighbors": 0.8224,
+        "LogisticRegression": 0.8355,
+        "KMeans": 0.2586,
+        "DBSCAN": 0.1444,
+        "MiniBatchKMeans": 0.2929
+    },
+    "Cirrhosis Patient Survival Prediction": {
+        "RandomForest": 0.7024,
+        "KNeighbors": 0.6429,
+        "LogisticRegression": 0.6964,
+        "KMeans": 0.0796,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.0921
+    },
+    "Predict Students' Dropout and Academic Success": {
+        "RandomForest": 0.7791,
+        "KNeighbors": 0.6734,
+        "LogisticRegression": 0.7684,
+        "KMeans": 0.1635,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.1381
+    },
+    "RT-IoT2022": {
+        "RandomForest": 0.9982,
+        "KNeighbors": 0.996,
+        "LogisticRegression": 0.9891,
+        "KMeans": 0.7675,
+        "DBSCAN": 0.3417,
+        "MiniBatchKMeans": 0.712
+    },
+    "PhiUSIIL Phishing URL (Website)": {},
+    "Regensburg Pediatric Appendicitis": {
+        "RandomForest": 0.9295,
+        "KNeighbors": 0.7788,
+        "LogisticRegression": 0.8974,
+        "KMeans": 0.1056,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.1212
+    },
+    "SUPPORT2": {
+        "RandomForest": 0.9028,
+        "KNeighbors": 0.852,
+        "LogisticRegression": 0.9028,
+        "KMeans": 0.1377,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.0293
+    },
+    "DARWIN": {
+        "RandomForest": 0.8429,
+        "KNeighbors": 0.6857,
+        "LogisticRegression": 0.8143,
+        "KMeans": 0.0905,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.0518
+    },
+    "NATICUSdroid (Android Permissions)": {
+        "RandomForest": 0.9643,
+        "KNeighbors": 0.9557,
+        "LogisticRegression": 0.9574,
+        "KMeans": 0.3391,
+        "DBSCAN": 0.3973,
+        "MiniBatchKMeans": 0.491
+    },
+    "Toxicity": {
+        "RandomForest": 0.5797,
+        "KNeighbors": 0.6087,
+        "LogisticRegression": 0.4783,
+        "KMeans": 0.092,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.0911
+    },
+    "Period Changer": {
+        "RandomForest": 0.7222,
+        "KNeighbors": 0.6944,
+        "LogisticRegression": 0.5556,
+        "KMeans": 0.0779,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.1638
+    },
+    "Sirtuin6 Small Molecules": {
+        "RandomForest": 0.825,
+        "KNeighbors": 0.775,
+        "LogisticRegression": 0.8,
+        "KMeans": 0.2642,
+        "DBSCAN": 0.0,
+        "MiniBatchKMeans": 0.2646
+    }
+}

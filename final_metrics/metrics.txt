@@ -1,0 +1,132 @@
+Iris,RandomForest,accuracy,0.9167,0.4186
+Iris,KNeighbors,accuracy,0.9167,0.0431
+Iris,LogisticRegression,accuracy,0.9333,2.0513
+Iris,KMeans,silhouette,0.4976,0.2782
+Iris,DBSCAN,silhouette,0.0494,0.0464
+Iris,MiniBatchKMeans,silhouette,0.4341,0.0149
+Wine,RandomForest,accuracy,0.9861,0.2937
+Wine,KNeighbors,accuracy,0.9306,0.0392
+Wine,LogisticRegression,accuracy,0.9722,0.838
+Wine,KMeans,silhouette,0.2626,0.0118
+Wine,DBSCAN,silhouette,0.0,0.0283
+Wine,MiniBatchKMeans,silhouette,0.2446,0.0187
+Breast Cancer Wisconsin (Diagnostic),RandomForest,accuracy,0.9605,0.3588
+Breast Cancer Wisconsin (Diagnostic),KNeighbors,accuracy,0.9605,0.0242
+Breast Cancer Wisconsin (Diagnostic),LogisticRegression,accuracy,0.9693,0.859
+Breast Cancer Wisconsin (Diagnostic),KMeans,silhouette,0.2828,0.0231
+Breast Cancer Wisconsin (Diagnostic),DBSCAN,silhouette,0.0,0.0057
+Breast Cancer Wisconsin (Diagnostic),MiniBatchKMeans,silhouette,0.3329,0.0682
+CDC Diabetes Health Indicators,RandomForest,accuracy,0.8659,1.3944
+CDC Diabetes Health Indicators,KNeighbors,accuracy,0.848,6.7755
+CDC Diabetes Health Indicators,LogisticRegression,accuracy,0.8635,1.1835
+CDC Diabetes Health Indicators,KMeans,silhouette,0.0809,168.2397
+CDC Diabetes Health Indicators,DBSCAN,silhouette,-0.3506,177.3206
+CDC Diabetes Health Indicators,MiniBatchKMeans,silhouette,0.159,169.2628
+National Poll on Healthy Aging,RandomForest,accuracy,0.4266,0.3128
+National Poll on Healthy Aging,KNeighbors,accuracy,0.472,0.0713
+National Poll on Healthy Aging,LogisticRegression,accuracy,0.521,1.3857
+National Poll on Healthy Aging,KMeans,silhouette,0.1082,0.1677
+National Poll on Healthy Aging,DBSCAN,silhouette,0.0,0.0355
+National Poll on Healthy Aging,MiniBatchKMeans,silhouette,0.0894,0.2394
+AIDS Clinical Trials Group Study 175,RandomForest,accuracy,0.8902,0.3808
+AIDS Clinical Trials Group Study 175,KNeighbors,accuracy,0.8364,0.0773
+AIDS Clinical Trials Group Study 175,LogisticRegression,accuracy,0.8692,0.8588
+AIDS Clinical Trials Group Study 175,KMeans,silhouette,0.1452,0.0374
+AIDS Clinical Trials Group Study 175,DBSCAN,silhouette,0.0,0.0098
+AIDS Clinical Trials Group Study 175,MiniBatchKMeans,silhouette,0.0956,0.1007
+Secondary Mushroom,RandomForest,accuracy,0.9988,0.8517
+Secondary Mushroom,KNeighbors,accuracy,1.0,13.4037
+Secondary Mushroom,LogisticRegression,accuracy,0.8446,1.3536
+Secondary Mushroom,KMeans,silhouette,0.0579,23.422
+Secondary Mushroom,DBSCAN,silhouette,0.3873,43.0032
+Secondary Mushroom,MiniBatchKMeans,silhouette,0.0557,23.5846
+Land Mines,RandomForest,accuracy,0.4926,0.5592
+Land Mines,KNeighbors,accuracy,0.4265,0.0527
+Land Mines,LogisticRegression,accuracy,0.4926,0.8596
+Land Mines,KMeans,silhouette,0.3252,0.0167
+Land Mines,DBSCAN,silhouette,-0.1136,0.0792
+Land Mines,MiniBatchKMeans,silhouette,0.3219,0.0156
+Differentiated Thyroid Cancer Recurrence,RandomForest,accuracy,0.9675,0.3894
+Differentiated Thyroid Cancer Recurrence,KNeighbors,accuracy,0.9221,0.1065
+Differentiated Thyroid Cancer Recurrence,LogisticRegression,accuracy,0.974,0.8966
+Differentiated Thyroid Cancer Recurrence,KMeans,silhouette,0.1264,0.0396
+Differentiated Thyroid Cancer Recurrence,DBSCAN,silhouette,-0.0795,0.1714
+Differentiated Thyroid Cancer Recurrence,MiniBatchKMeans,silhouette,0.1759,0.0972
+Glioma Grading Clinical and Mutation Features,RandomForest,accuracy,0.8452,0.3799
+Glioma Grading Clinical and Mutation Features,KNeighbors,accuracy,0.8363,0.0366
+Glioma Grading Clinical and Mutation Features,LogisticRegression,accuracy,0.8661,0.8402
+Glioma Grading Clinical and Mutation Features,KMeans,silhouette,0.1659,0.0227
+Glioma Grading Clinical and Mutation Features,DBSCAN,silhouette,-0.0537,0.0171
+Glioma Grading Clinical and Mutation Features,MiniBatchKMeans,silhouette,0.1616,0.1154
+Auction Verification,RandomForest,accuracy,0.9707,0.3467
+Auction Verification,KNeighbors,accuracy,0.8826,0.0721
+Auction Verification,LogisticRegression,accuracy,0.8765,0.8284
+Auction Verification,KMeans,silhouette,0.1497,0.0405
+Auction Verification,DBSCAN,silhouette,-0.0824,0.0833
+Auction Verification,MiniBatchKMeans,silhouette,0.1493,0.1087
+National Health and Nutrition Health Survey 2013-2014 (NHANES) Age Prediction Subset,RandomForest,accuracy,0.8476,0.3557
+National Health and Nutrition Health Survey 2013-2014 (NHANES) Age Prediction Subset,KNeighbors,accuracy,0.8224,0.0874
+National Health and Nutrition Health Survey 2013-2014 (NHANES) Age Prediction Subset,LogisticRegression,accuracy,0.8355,0.851
+National Health and Nutrition Health Survey 2013-2014 (NHANES) Age Prediction Subset,KMeans,silhouette,0.2586,0.0352
+National Health and Nutrition Health Survey 2013-2014 (NHANES) Age Prediction Subset,DBSCAN,silhouette,0.1444,0.1005
+National Health and Nutrition Health Survey 2013-2014 (NHANES) Age Prediction Subset,MiniBatchKMeans,silhouette,0.2929,0.0936
+Cirrhosis Patient Survival Prediction,RandomForest,accuracy,0.7024,0.4109
+Cirrhosis Patient Survival Prediction,KNeighbors,accuracy,0.6429,0.1093
+Cirrhosis Patient Survival Prediction,LogisticRegression,accuracy,0.6964,0.922
+Cirrhosis Patient Survival Prediction,KMeans,silhouette,0.0796,0.0957
+Cirrhosis Patient Survival Prediction,DBSCAN,silhouette,0.0,0.0921
+Cirrhosis Patient Survival Prediction,MiniBatchKMeans,silhouette,0.0921,0.1286
+Predict Students' Dropout and Academic Success,RandomForest,accuracy,0.7791,0.3946
+Predict Students' Dropout and Academic Success,KNeighbors,accuracy,0.6734,0.1098
+Predict Students' Dropout and Academic Success,LogisticRegression,accuracy,0.7684,0.9639
+Predict Students' Dropout and Academic Success,KMeans,silhouette,0.1635,0.1277
+Predict Students' Dropout and Academic Success,DBSCAN,silhouette,0.0,0.0626
+Predict Students' Dropout and Academic Success,MiniBatchKMeans,silhouette,0.1381,0.2083
+RT-IoT2022,RandomForest,accuracy,0.9982,0.9006
+RT-IoT2022,KNeighbors,accuracy,0.996,3.7414
+RT-IoT2022,LogisticRegression,accuracy,0.9891,5.3274
+RT-IoT2022,KMeans,silhouette,0.7675,41.9464
+RT-IoT2022,DBSCAN,silhouette,0.3417,46.4108
+RT-IoT2022,MiniBatchKMeans,silhouette,0.712,42.6036
+Regensburg Pediatric Appendicitis,RandomForest,accuracy,0.9295,0.4767
+Regensburg Pediatric Appendicitis,KNeighbors,accuracy,0.7788,0.0678
+Regensburg Pediatric Appendicitis,LogisticRegression,accuracy,0.8974,2.7676
+Regensburg Pediatric Appendicitis,KMeans,silhouette,0.1056,0.1777
+Regensburg Pediatric Appendicitis,DBSCAN,silhouette,0.0,0.0383
+Regensburg Pediatric Appendicitis,MiniBatchKMeans,silhouette,0.1212,0.0966
+SUPPORT2,RandomForest,accuracy,0.9028,0.4302
+SUPPORT2,KNeighbors,accuracy,0.852,0.2403
+SUPPORT2,LogisticRegression,accuracy,0.9028,0.1483
+SUPPORT2,KMeans,silhouette,0.1377,0.4708
+SUPPORT2,DBSCAN,silhouette,0.0,0.0368
+SUPPORT2,MiniBatchKMeans,silhouette,0.0293,0.3051
+DARWIN,RandomForest,accuracy,0.8429,0.3056
+DARWIN,KNeighbors,accuracy,0.6857,0.0211
+DARWIN,LogisticRegression,accuracy,0.8143,0.841
+DARWIN,KMeans,silhouette,0.0905,0.0318
+DARWIN,DBSCAN,silhouette,0.0,0.0088
+DARWIN,MiniBatchKMeans,silhouette,0.0518,0.0416
+NATICUSdroid (Android Permissions),RandomForest,accuracy,0.9643,0.4526
+NATICUSdroid (Android Permissions),KNeighbors,accuracy,0.9557,0.6046
+NATICUSdroid (Android Permissions),LogisticRegression,accuracy,0.9574,1.1179
+NATICUSdroid (Android Permissions),KMeans,silhouette,0.3391,2.5445
+NATICUSdroid (Android Permissions),DBSCAN,silhouette,0.3973,2.6726
+NATICUSdroid (Android Permissions),MiniBatchKMeans,silhouette,0.491,2.2326
+Toxicity,RandomForest,accuracy,0.5797,0.3812
+Toxicity,KNeighbors,accuracy,0.6087,0.028
+Toxicity,LogisticRegression,accuracy,0.4783,0.9313
+Toxicity,KMeans,silhouette,0.092,0.0508
+Toxicity,DBSCAN,silhouette,0.0,0.0125
+Toxicity,MiniBatchKMeans,silhouette,0.0911,0.0514
+Period Changer,RandomForest,accuracy,0.7222,0.2839
+Period Changer,KNeighbors,accuracy,0.6944,0.0248
+Period Changer,LogisticRegression,accuracy,0.5556,0.8875
+Period Changer,KMeans,silhouette,0.0779,0.049
+Period Changer,DBSCAN,silhouette,0.0,0.0109
+Period Changer,MiniBatchKMeans,silhouette,0.1638,0.0403
+Sirtuin6 Small Molecules,RandomForest,accuracy,0.825,0.2937
+Sirtuin6 Small Molecules,KNeighbors,accuracy,0.775,0.0414
+Sirtuin6 Small Molecules,LogisticRegression,accuracy,0.8,0.8413
+Sirtuin6 Small Molecules,KMeans,silhouette,0.2642,0.0138
+Sirtuin6 Small Molecules,DBSCAN,silhouette,0.0,0.0303
+Sirtuin6 Small Molecules,MiniBatchKMeans,silhouette,0.2646,0.0211
