@@ -16,11 +16,8 @@ For the setup of the project follow the instructions in the [SETUP.md](docs/SETU
 │     └── models
 │
 ├── src                      # source code folder for common code and for CRISP-DM steps
-│     ├── common
-│     ├── data_understanding
-│     ├── data_preparation
-│     ├── ...               
-│     └── modelling
+│     ├── common    
+│     └── experimentation
 │
 ├── dev-requirements.txt     # testing dependencies
 ├── environment.yaml         # conda formatted dependencies, used by 'make init' to create the virtualenv
